@@ -1,4 +1,4 @@
-# 📉 Análise de Gastos Pessoais  
+# 📉 Análise de Gastos
 
 Um projeto simples em Python para analisar gastos mensais.  
 
